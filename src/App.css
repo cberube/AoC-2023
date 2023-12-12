@@ -1,0 +1,9 @@
+#root {
+  margin: 1rem;
+}
+
+pre {
+  margin: 1rem;
+  background-color: gainsboro;
+  padding: 0.5rem;
+}
