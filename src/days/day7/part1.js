@@ -1,4 +1,4 @@
-import { sum } from "../helpers"
+import { sum } from "../../helpers"
 
 const cardValues = {
   2: 2,
